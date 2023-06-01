@@ -27,4 +27,12 @@
 + [Privacy-preserving federated k-means for proactive caching in next generation cellular networks](https://www.sciencedirect.com/science/article/pii/S0020025520301250)
 + [VerifyNet: Secure and Verifiable Federated Learning](https://ieeexplore.ieee.org/document/8765347)
 + [Privacy-preserving Heterogeneous Federated Transfer Learning](https://ieeexplore.ieee.org/document/9005992)
-+ [
++ [Privacy-preserving deep learning](https://ieeexplore.ieee.org/document/7447103)
++ [The Concept of Granular Representation of the Information Potential of Variables](https://ieeexplore.ieee.org/document/9494582)
++ [Anonymous and Privacy-Preserving Federated Learning With Industrial Big Data](https://ieeexplore.ieee.org/document/9325934)
++ [Dancing in the Dark: Private Multi-Party Machine Learning in an Untrusted Setting](https://arxiv.org/abs/1811.09712)
++ [A Syntactic Approach for Privacy-Preserving Federated Learning](https://ebooks.iospress.nl/volumearticle/55085)
++ [k-anonymity: a model for protecting privacy](https://dl.acm.org/doi/10.1142/S0218488502001648)
++ [t-Closeness: Privacy Beyond k-Anonymity and l-Diversity](https://ieeexplore.ieee.org/document/4221659)
++ [An Accuracy-Lossless Perturbation Method for Defending Privacy Attacks in Federated Learning](https://arxiv.org/abs/2002.09843)
++ [PEFL: Deep Privacy-Encoding-Based Federated Learning Framework for Smart Agriculture](https://ieeexplore.ieee.org/document/9540342)
