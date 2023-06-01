@@ -11,3 +11,5 @@
 + [Analyzing User-Level Privacy Attack Against Federated Learning](https://ieeexplore.ieee.org/document/9109557)
 + [Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning](https://arxiv.org/abs/1812.00535)
 + [Defense against Privacy Leakage in Federated Learning](https://arxiv.org/abs/2209.05724)
++ [Privacy Leakage of Adversarial Training Models in Federated Learning Systems](https://arxiv.org/abs/2202.10546)
++ [Deep Models Under the GAN: Information Leakage from Collaborative Deep Learning](https://arxiv.org/abs/1702.07464)
