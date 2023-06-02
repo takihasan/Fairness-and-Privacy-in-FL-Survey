@@ -99,7 +99,7 @@
 + [Synthetic Data for Anonymization in Secure Data Spaces for Federated Learning](https://ebooks.iospress.nl/volumearticle/61227)
 + [Mitigating Leakage in Federated Learning with Trusted Hardware](https://arxiv.org/abs/2011.04948)
 + [EdgeFed: Optimized Federated Learning Based on Edge Computing](https://ieeexplore.ieee.org/document/9260194)
-+ [Privacy-Preserving Federated Learning for Value-Added Service Model in Advanced Metering Infrastructure(https://ieeexplore.ieee.org/document/9908546)
++ [Privacy-Preserving Federated Learning for Value-Added Service Model in Advanced Metering Infrastructure](https://ieeexplore.ieee.org/document/9908546)
 + [A training-integrity privacy-preserving federated learning scheme with trusted execution environment](https://www.sciencedirect.com/science/article/pii/S0020025520301201)
 + [A Hybrid Approach to Privacy-Preserving Federated Learning](https://arxiv.org/abs/1812.03224)
 + [A Privacy-Preserving Hybrid Federated Learning Framework for Financial Crime Detection](https://arxiv.org/abs/2302.03654)
