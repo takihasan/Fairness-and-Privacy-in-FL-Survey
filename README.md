@@ -12,7 +12,6 @@
 + [A Survey of Multiplicative Perturbation for Privacy-Preserving Data Mining](https://link.springer.com/chapter/10.1007/978-0-387-70992-5_7)
 + [Technical Privacy Metrics: a Systematic Survey](https://arxiv.org/abs/1512.00327)
 + [Federated Learning Attacks and Defenses: A Survey](https://arxiv.org/abs/2211.14952)
-
 + [Learning Differentially Private Recurrent Language Models](https://arxiv.org/abs/1710.06963)
 + [Analyzing User-Level Privacy Attack Against Federated Learning](https://ieeexplore.ieee.org/document/9109557)
 + [Beyond Inferring Class Representatives: User-Level Privacy Leakage From Federated Learning](https://arxiv.org/abs/1812.00535)
