@@ -1,6 +1,6 @@
-## Fairness and Privacy-Preserving in Federated Learning: A Survey 
+## [Fairness and Privacy-Preserving in Federated Learning: A Survey](https://arxiv.org/abs/2306.08402)
 #### Authors: [Taki Hasan Rafi](https://takihasan.github.io/), Faiza Anan Noor, Tahmid Hussain, and [Dong-Kyu Chae](https://dkchae.github.io/)
-##### For primary contact, please send email at takihr@hanyang.ac.kr! We would appreciate any feedback.
+##### For primary contact, please send an email to takihr@hanyang.ac.kr! We would appreciate any feedback.
 
 
 ### Papers 
