@@ -106,3 +106,8 @@
 + [A Privacy-Preserving Hybrid Federated Learning Framework for Financial Crime Detection](https://arxiv.org/abs/2302.03654)
 
 #### [Fairness]
+#####
++ [Mitigating Bias in Federated Learning](https://arxiv.org/abs/2012.02447)
++ [Fairness-aware Learning through Regularization Approach](https://ieeexplore.ieee.org/document/6137441)
++ [Fairness-Aware Classifier with Prejudice Remover Regularizer](https://link.springer.com/chapter/10.1007/978-3-642-33486-3_3)
++ [
